@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Python version manager
+.python-version
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Build/package files
+build/
+dist/
+*.egg-info/
+
+# Alembic / local generated files
+*.log
